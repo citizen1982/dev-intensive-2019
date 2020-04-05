@@ -1,5 +1,8 @@
 # Built application files
 build/
+*.apk
+*.ap_
+*.aab
 
 # Files for the ART/Dalvik VM
 *.dex
@@ -14,7 +17,17 @@ build/
 .signing/
 
 # User-specific configurations
-*.iml
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -39,6 +52,12 @@ google-services.json
 # Version control
 vcs.xml
 
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+lint/reports/
 
 
 
@@ -77,3 +96,36 @@ vcs.xml
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.gitignore [dos] (22:00 05/04/2020)                                    14,1 Весь
+".gitignore" [noeol][dos] 14L, 167C
+Thumbs.db
+>>>>>>> conflict
