@@ -11,4 +11,28 @@
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+# Gradle files
+.gradle/
+
+# User-specific configurations
+*.iml
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+~
+~
+~
+~
+~
+~
+~
+~
+.gitignore [dos] (22:00 05/04/2020)                                    14,1 Весь
+".gitignore" [noeol][dos] 14L, 167C
 Thumbs.db
